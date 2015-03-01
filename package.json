@@ -1,0 +1,15 @@
+{
+  "name": "atom-shell-auto-update-express",
+  "version": "0.0.1",
+  "description": "express server for atom-shell auto-update demo",
+  "main": "server.js",
+  "dependencies": {
+    "asar": "^0.2.2",
+    "express": "^3.4.8",
+    "request": "^2.53.0",
+    "tar": "^1.0.3"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
